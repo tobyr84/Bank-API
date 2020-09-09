@@ -1,4 +1,4 @@
-# Bank API
+# Bank API - cloned to work Mac
 
 This is a standalone exercise to practice writing tests and engaging in Test Driven Development (TDD).
 
